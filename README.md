@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is designed to facilitate the loading of PDF files, specifically focusing on the "HeerShneiderman2012-Interactive Dynamics for Visual Analysis" document. The primary goal is to utilize Langchain and Language Models (LLMs), specifically leveraging OpenAI's LLM model, for querying data extracted from the PDF.
+This project is designed to facilitate the loading of PDF files, here we took example of the book "HeerShneiderman2012-Interactive Dynamics for Visual Analysis" who's pdf was uploaded. The primary goal is to utilize Langchain and Language Models (LLMs), specifically leveraging OpenAI's LLM model, for querying data extracted from the PDF.
 
 Additionally, the project incorporates CassandraDB, specifically Astra from DataStax, to establish a cloud-based VectorDB. This VectorDB enables efficient search and querying based on text embeddings.
 
